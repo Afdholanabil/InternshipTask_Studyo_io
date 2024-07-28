@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268236657873",
+    "project_id": "internship-task-studyoio",
+    "storage_bucket": "internship-task-studyoio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268236657873:android:44c6f3496b7d0b55e561f0",
+        "android_client_info": {
+          "package_name": "com.example.internship_task_studyoio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxRtyDLVPmHlG20H2I1cqQjp2Uoc0Qu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
